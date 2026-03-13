@@ -7,7 +7,7 @@ import { studionet } from "genlayer-js/chains";
 // ─────────────────────────────────────────────────────────────────────────────
 //  🔧 CONFIG — PASTE YOUR CONTRACT ADDRESS HERE AFTER DEPLOYING
 // ─────────────────────────────────────────────────────────────────────────────
-const CONTRACT_ADDRESS = "PASTE_YOUR_CONTRACT_ADDRESS_HERE";
+const CONTRACT_ADDRESS = "0x147e3A0425bcF7659ab082D7d280fB59E4FD40e0";
 // ─────────────────────────────────────────────────────────────────────────────
 
 const POLL_MS = 4000;
